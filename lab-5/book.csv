@@ -1,0 +1,11 @@
+﻿CompletedLastBook,UnreadBooksInShelf,OngoingTests,Genre,Status,Read
+no,0,no,SWE,Bought,yes
+no,2,yes,Fiction,Rented,no
+no,5,no,Drama,Bought,no
+no,1,yes,SWE,Rented,yes
+no,2,no,SciFi,Lent,yes
+yes,0,yes,SciFi,Rented,yes
+yes,0,no,SWE,Lent,yes
+yes,5,yes,Comedy,Lent,no
+yes,6,no,Thriller,bought,yes
+yes,2,yes,SWE,Rented,no
